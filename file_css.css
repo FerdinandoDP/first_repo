@@ -1,0 +1,15 @@
+body{
+	background-color: navy;
+	color: white;
+	text-align: center;
+}
+h1{
+	margin-left: 30px;
+	color: red;
+}
+a:acive{
+	color: red;
+}
+a:hover{
+	background-color: yellow;
+}
